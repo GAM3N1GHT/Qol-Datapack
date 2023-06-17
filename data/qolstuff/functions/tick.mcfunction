@@ -1,0 +1,1 @@
+execute as @r[scores={Death=1..}] run function qolstuff:death

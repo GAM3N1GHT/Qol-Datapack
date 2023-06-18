@@ -1,0 +1,1 @@
+give @s minecraft:warped_fungus_on_a_stick{display:{Name:'[{"text":"Builders Wand"}]',Lore:['[{"text":"Can be used to copy and paste areas of land if the player has the materials to rebuild it."}]']},Enchantments:[{id:"minecraft:infinity",lvl:255}],Tags:["CPwand"]} 1
